@@ -1,2 +1,2 @@
 # mylang
-lisp-based language
+lisp-based language parser
